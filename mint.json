@@ -22,18 +22,18 @@
   "anchors": [
     {
       "name": "Discord",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "icon": "discord",
+      "url": "https://discord.gg/jF5uHgCf"
     },
     {
       "name": "Telegram",
       "icon": "telegram",
-      "url": "https://mintlify.com/blog"
+      "url": "https://t.me/scalepod"
     },
     {
       "name": "X",
       "icon": "x",
-      "url": "https://mintlify.com/blog"
+      "url": "https://x.com/scalepod"
     }
   ],
   "navigation": [
@@ -59,7 +59,7 @@
   ],
   "footerSocials": {
     "x": "https://x.com/scalepod",
-    "discord": "https://github.com/mintlify",
-    "telegram": "https://www.linkedin.com/company/mintsearch"
+    "discord": "https://discord.gg/jF5uHgCf",
+    "telegram": "https://t.me/scalepod"
   }
 }
