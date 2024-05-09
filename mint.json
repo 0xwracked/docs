@@ -53,8 +53,8 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/scalepod",
     "discord": "https://discord.gg/jF5uHgCf",
-    "telegram": "https://t.me/scalepod"
+    "telegram": "https://t.me/scalepod",
+    "x": "https://x.com/scalepod",
   }
 }
