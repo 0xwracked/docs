@@ -15,15 +15,9 @@
       "to": "#07C983"
     }
   },
-  "topbarLinks": [
-    {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
-    }
-  ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Start Deploying",
+    "url": "https://scalepod.io/"
   },
   "anchors": [
     {
@@ -52,7 +46,7 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Deployment",
       "pages": [
         "essentials/markdown",
         "essentials/code",
