@@ -21,18 +21,18 @@
   },
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Community",
+      "name": "Discord",
       "icon": "slack",
       "url": "https://mintlify.com/community"
     },
     {
-      "name": "Blog",
-      "icon": "newspaper",
+      "name": "Telegram",
+      "icon": "telegram",
+      "url": "https://mintlify.com/blog"
+    },
+    {
+      "name": "X",
+      "icon": "x",
       "url": "https://mintlify.com/blog"
     }
   ],
