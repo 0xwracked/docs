@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "scalepod | Docs",
   "logo": {
-    "dark": "/logo/dark.svg",
+    "dark": "https://scalepod.io/scalepod-logo.svg",
     "light": "/logo/light.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://scalepod.io/scalepod-logo.svg",
   "colors": {
     "primary": "#a3e635",
     "light": "#07C983",
